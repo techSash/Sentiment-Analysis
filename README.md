@@ -1,4 +1,5 @@
-# Sentiment-Analysis
+# SENTIMENT ANALYSIS
+
 predicting the sentiment of tweets
 
 The repository contains a create_dataset_code.py file with whoch the dataset is created. 
@@ -6,11 +7,13 @@ run create_dataset.py > twitter_dataset.txt to pipeline the results of the pytho
 
 The jupyter notebook contains the code for the sentiment analysis.
 
-The libraries used were 
+## DEPENDENCIES 
 
-nltk for text manipulation and machine leearning model
-pandas for dataframes
-matplotlib for data visualization
+1. nltk for text manipulation and machine leearning model
+2. pandas for dataframes
+3. matplotlib for data visualization
+
+## DATASET
 
 my dataset is based on indian politics
 
