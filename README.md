@@ -2,7 +2,7 @@
 
 predicting the sentiment of tweets
 
-The repository contains a create_dataset_code.py file with whoch the dataset is created. 
+The repository contains a create_dataset_code.py file with which the dataset is created. 
 run create_dataset.py > twitter_dataset.txt to pipeline the results of the python file to twitter_dataset.txt.
 
 The jupyter notebook contains the code for the sentiment analysis.
